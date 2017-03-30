@@ -9,3 +9,4 @@ annotations/src/main/java/org
 *.iws
 .idea
 *.aj
+.mvn
