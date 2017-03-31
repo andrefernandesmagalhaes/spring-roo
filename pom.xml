@@ -27,6 +27,7 @@
           add/remove/rename any module below! -->
         <!-- ROO Core -->
         <module>runtime</module>
+	<module>querydsl</module>
 
         <!-- ROO Addons -->
         <module>addon-configurable</module>
@@ -149,6 +150,7 @@
 
     <dependencyManagement>
         <dependencies>
+	    	
 
             <!-- OSGi Core API -->
             <dependency>
